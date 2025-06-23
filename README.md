@@ -5,4 +5,4 @@
 * <p><strong>Overview of the sales insights</strong></p>
 <img src="https://raw.githubusercontent.com/jan-codex/Jan-s_portfolio/main/images/Screenshot%202025-02-18%20135624.png" alt="Overview of the sales insights" width="500"/>
 
-
+# [Other Projects:]https://github.com/jan-codex
