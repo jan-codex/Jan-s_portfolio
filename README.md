@@ -1,4 +1,4 @@
-# Jan-s Portfolio
+# Jan-s_Portfolio
 
 ## [Project 1: Atliq Hardware - Revenue and Sales Analytics](https://github.com/jan-codex/Revenue-Insights-using-Power-BI-and-SQL)
 
